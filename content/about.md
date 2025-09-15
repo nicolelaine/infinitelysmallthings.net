@@ -4,7 +4,7 @@ description: "All about the Institute for Infinitely Small Things"
 layout: "single"
 ---
 
-The Institute for Infinitely Small Things conducts creative, participatory research that aims to temporarily transform public spaces and instigate dialogue about democracy, spatial justice and everyday life. The Institute's projects use performance, conversation and unexpected interventions to investigate social and political "tiny things".
+The Institute for Infinitely Small Things conducts creative, participatory research that aims to temporarily transform public spaces and instigate dialogue about democracy, spatial justice and everyday life. The Institute's projects use performance, conversation and unexpected interventions to investigate social and political "tiny things."
 
 <br>
 
