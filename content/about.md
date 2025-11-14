@@ -8,7 +8,7 @@ The Institute for Infinitely Small Things conducts creative, participatory resea
 
 <br>
 
-{{< button href="mailto:info@infinitelysmallthings.net" target="_blank" >}}
+{{< button href="mailto:infinitelysmallthings@googlegroups.com" >}}
 Contact the Institute
 {{< /button >}}
 
