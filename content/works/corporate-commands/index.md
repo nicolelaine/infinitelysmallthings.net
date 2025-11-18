@@ -23,8 +23,7 @@ Visit the Corporate Commands International Database
 
 ## Watch the Instructional Video
 
-{{< youtubeLite id="RUOj6IGLZoY" label=" Corporate Commands: An Instructional Video" >}}
-
+{{< vimeo 1127163322 >}}
 
 ## Simplify Your Finances {#simplify}
 
