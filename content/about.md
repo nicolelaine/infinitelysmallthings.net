@@ -34,7 +34,7 @@ Critical Landscapes: Art, Space, Politics - [by Emily Eliza Scott (Editor), Kirs
 
  Applications of Civic Media and Evaluating their Impact, Success and Metrics in Different Fields - [by Jackie Lender](https://blogs.microsoft.com/newengland/2015/06/18/applications-of-civic-media-and-evaluating-their-impact-success-and-metrics-in-different-fields/)
 
- Civic Imagination and a Useless Map - [by kanarinka](https://kanarinka.com/wp-content/uploads/2015/07/CivicImaginationAndAUselessMap.pdf)
+ Civic Imagination and a Useless Map - [by kanarinka](../docs/CivicImaginationAndAUselessMap.pdf)
 
 ### 2012
 
