@@ -45,7 +45,7 @@ Erase the Border: A Petition of Voices for Change - [MIT Center for Civic Media]
 
 ### 2011
 
-The City Formerly Known as Cambridge: A useless map by the Institute for Infinitely Small things - [by kanarinka](https://kanarinka.com/wp-content/uploads/2021/01/DIgnazio-2011-The-City-Formerly-Known-as-Cambridge-a-useless-ma.pdf)
+The City Formerly Known as Cambridge: A useless map by the Institute for Infinitely Small things - [by kanarinka](/docs/DIgnazio-2011-The-City-Formerly-Known-as-Cambridge-a-useless-map.pdf)
 
 ### 2009
 
