@@ -36,6 +36,6 @@ The ultimate goal of the project is to produce a coffee-table book which could b
 
 ### Donate to the Project
 
-{{< button href="https://www.paypal.com/donate?token=m4L_nFZ6j_3LX2ox86dm5uCjKTHqt4qsTXok0ytEFBXSCIh7AholiAQisIp_fSXG8KMjrQQR6uZKZ-wP&locale.x=US" target="_blank" >}}
+{{< button href="https://www.paypal.com/donate?business=info@ikatun.com&currency_code=USD" target="_blank" >}}
 Donate
 {{< /button >}}
