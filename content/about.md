@@ -53,6 +53,11 @@ Institute for Infinitely Small Things “Digging for Happiness - [The New Englan
 
 Radical Jesters: A Film About Pranksters, Hoaxers, Situationists, Performers - [a film by Tim Jackson](https://youtu.be/I6pekPDJVHg?si=LhKFKHLP7cI_yNoA&t=189)
 
+### 2008
+
+Thinking Small: a local community subverts with the tiny - [The Boston Phoenix](/docs/The-Phoenix-Museum-And-Gallery-Thinking-small.pdf)
+
+
 ### 2006
 
 Art-Machines, Body-Ovens and Map-Recipes: Entries for a Psychogeographic Dictionary - [by kanarinka](https://cartographicperspectives.org/index.php/journal/article/view/cp53-kanarinka)
