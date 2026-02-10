@@ -31,6 +31,10 @@ For [#ArtHackDay](http://arthackday.net/) Boston 2012. Harvard Square, Cambridge
 
 {{< carousel images="simplify/*" >}}
 
+Watch the video below: 
+
+{{< vimeo 50417870 >}}
+
 ## Roll over {#rollover}
 
 On February 26th, 2005, the Institute performed ‘Rollover’ (Cingular Wireless). Five researchers lay down underneath the ‘Rollover’ poster and blocked the sidewalk in Central Square, a busy commercial district in Cambridge, MA. When pedestrians approached, the group would yell ‘Rollover!’ and make way for the person by rolling over. … ‘What happens when one takes Cingular seriously and rolls over right here? What will change in this environment? What will this action produce?’”
