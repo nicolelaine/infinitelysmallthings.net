@@ -38,7 +38,7 @@ Critical Landscapes: Art, Space, Politics - [by Emily Eliza Scott (Editor), Kirs
 
 ### 2012
 
-In Conversation: kanarinka with Natalie Loveless - [an interview](https://elabhome.blob.core.windows.net/resources/in-conversation-kanarinka-with-natalie-loveless.pdf)
+In Conversation: kanarinka with Natalie Loveless - [an interview](../docs/in-conversation-kanarinka-with-natalie-loveless.pdf)
 
 Erase the Border: A Petition of Voices for Change - [MIT Center for Civic Media](https://civic.mit.edu/index.html%3Fp=908.html) 
 
