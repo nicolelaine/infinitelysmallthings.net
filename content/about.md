@@ -76,7 +76,10 @@ Art-Machines, Body-Ovens and Map-Recipes: Entries for a Psychogeographic Diction
   by kanarinka
 </a>
 
-The Analysis of Infinitely Small Things - [research report](https://kanarinka.com/wp-content/uploads/2021/01/The-Institute-For-Infinitely-Small-2006-The-Analysis-of-Infinitely-Small-Things-Research-.pdf)
+The Analysis of Infinitely Small Things - 
+<a href="../docs/The-Institute-For-Infinitely-Small-2006-The-Analysis-of-Infinitely-Small-Things-Research.pdf" target="_blank" rel="noopener">
+  research report
+</a>
 
 ### 2005 
 
