@@ -71,7 +71,10 @@ Thinking Small: a local community subverts with the tiny -
 
 ### 2006
 
-Art-Machines, Body-Ovens and Map-Recipes: Entries for a Psychogeographic Dictionary - [by kanarinka](https://cartographicperspectives.org/index.php/journal/article/view/cp53-kanarinka)
+Art-Machines, Body-Ovens and Map-Recipes: Entries for a Psychogeographic Dictionary - 
+<a href="../docs/art-machines-body-ovens-map-recipes-entries-for-a-psychogeographic-dictionary.pdf" target="_blank" rel="noopener">
+  by kanarinka
+</a>
 
 The Analysis of Infinitely Small Things - [research report](https://kanarinka.com/wp-content/uploads/2021/01/The-Institute-For-Infinitely-Small-2006-The-Analysis-of-Infinitely-Small-Things-Research-.pdf)
 
