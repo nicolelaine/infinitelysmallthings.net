@@ -83,5 +83,7 @@ The Analysis of Infinitely Small Things -
 
 ### 2005 
 
-Guidebook to Find Infinitely Small Things - [by kanarinka](https://kanarinka.com/wp-content/uploads/2021/01/DIgnazio-2005-Guidebook-to-Find-Infinitely-Small-Things.pdf)
-
+Guidebook to Find Infinitely Small Things - 
+<a href="../docs/DIgnazio-2005-Guidebook-to-Find-Infinitely-Small-Things.pdf" target="_blank" rel="noopener">
+  by kanarinka
+</a>
