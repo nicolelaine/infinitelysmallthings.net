@@ -34,18 +34,27 @@ Critical Landscapes: Art, Space, Politics - [by Emily Eliza Scott (Editor), Kirs
 
  Applications of Civic Media and Evaluating their Impact, Success and Metrics in Different Fields - [by Jackie Lender](https://blogs.microsoft.com/newengland/2015/06/18/applications-of-civic-media-and-evaluating-their-impact-success-and-metrics-in-different-fields/)
 
- Civic Imagination and a Useless Map - [by kanarinka](../docs/CivicImaginationAndAUselessMap.pdf)
+ Civic Imagination and a Useless Map - 
+<a href="../docs/CivicImaginationAndAUselessMap.pdf" target="_blank" rel="noopener">
+  by kanarinka
+</a>
 
 ### 2012
 
-In Conversation: kanarinka with Natalie Loveless - [an interview](../docs/in-conversation-kanarinka-with-natalie-loveless.pdf)
+In Conversation: kanarinka with Natalie Loveless - 
+<a href="../docs/in-conversation-kanarinka-with-natalie-loveless.pdf" target="_blank" rel="noopener">
+  an interview
+</a>
 
 Erase the Border: A Petition of Voices for Change - [MIT Center for Civic Media](https://civic.mit.edu/index.html%3Fp=908.html) 
 
 
 ### 2011
 
-The City Formerly Known as Cambridge: A useless map by the Institute for Infinitely Small things - [by kanarinka](/docs/DIgnazio-2011-The-City-Formerly-Known-as-Cambridge-a-useless-map.pdf)
+The City Formerly Known as Cambridge: A useless map by the Institute for Infinitely Small things - 
+<a href="../docs/DIgnazio-2011-The-City-Formerly-Known-as-Cambridge-a-useless-map.pdf" target="_blank" rel="noopener">
+  by kanarinka
+</a>
 
 ### 2009
 
@@ -55,8 +64,10 @@ Radical Jesters: A Film About Pranksters, Hoaxers, Situationists, Performers - [
 
 ### 2008
 
-Thinking Small: a local community subverts with the tiny - [The Boston Phoenix](/docs/The-Phoenix-Museum-And-Gallery-Thinking-small.pdf)
-
+Thinking Small: a local community subverts with the tiny - 
+<a href="../docs/The-Phoenix-Museum-And-Gallery-Thinking-small.pdf" target="_blank" rel="noopener">
+  The Boston Phoenix
+</a>
 
 ### 2006
 
