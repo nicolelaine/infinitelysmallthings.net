@@ -12,9 +12,16 @@ The Institute for Infinitely Small Things conducts creative, participatory resea
 Contact the Institute
 {{< /button >}}
 
+<hr>
+
 ## Publications / Articles / References / Books
 
 *A collection of works either by, or referencing, the Institute for Infinitely Small Things.*
+
+### 2024
+
+Répertoire des subversions: Art, activisme, méthodes - [by Martin Le Chevallier](https://www.editionsladecouverte.fr/repertoire_des_subversions-9782355222153)
+
 
 ### 2019
 
