@@ -16,7 +16,7 @@ Contact the Institute
 
 ## Publications / Articles / References / Books
 
-*A collection of works either by, or referencing, the Institute for Infinitely Small Things.*
+*A collection of works either by, or referencing, The Institute for Infinitely Small Things.*
 
 ### 2024
 
