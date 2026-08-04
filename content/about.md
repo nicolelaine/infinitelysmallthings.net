@@ -20,7 +20,7 @@ Contact the Institute
 
 ### 2024
 
-Répertoire des subversions: Art, activisme, méthodes - [by Martin Le Chevallier](https://www.editionsladecouverte.fr/repertoire_des_subversions-9782355222153)
+Répertoire des subversions: Art, activisme, méthodes - [by Martin Le Chevallier (in French)](https://www.editionsladecouverte.fr/repertoire_des_subversions-9782355222153)
 
 
 ### 2019
