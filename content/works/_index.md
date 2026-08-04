@@ -5,4 +5,4 @@ layout: "list"
 draft: false
 ---
 
-Here are some selected projects.
+Here are some of our selected projects.
