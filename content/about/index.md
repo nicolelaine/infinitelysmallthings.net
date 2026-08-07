@@ -69,6 +69,8 @@ Institute for Infinitely Small Things “Digging for Happiness - [The New Englan
 
 Radical Jesters: A Film About Pranksters, Hoaxers, Situationists, Performers - [a film by Tim Jackson](https://youtu.be/I6pekPDJVHg?si=LhKFKHLP7cI_yNoA&t=189)
 
+Institute for Infinitely Small Things’ “Origami Stimulus Package” - [The New England Journal of Aesthetic Research](http://aesthetic.gregcookland.com/2009/10/institute-for-infinitely-small-things.html)
+
 ### 2008
 
 Thinking Small: a local community subverts with the tiny - 
