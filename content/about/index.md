@@ -65,7 +65,7 @@ The City Formerly Known as Cambridge: A useless map by the Institute for Infinit
 
 ### 2009
 
-Institute for Infinitely Small Things “Digging for Happiness - [The New England Journal of Aesthetic Research](http://aesthetic.gregcookland.com/2009/10/institute-for-infinitely-small-things.html)
+Institute for Infinitely Small Things “Digging for Happiness" - [The New England Journal of Aesthetic Research](http://aesthetic.gregcookland.com/2009/10/institute-for-infinitely-small-things.html)
 
 Radical Jesters: A Film About Pranksters, Hoaxers, Situationists, Performers - [a film by Tim Jackson](https://youtu.be/I6pekPDJVHg?si=LhKFKHLP7cI_yNoA&t=189)
 
