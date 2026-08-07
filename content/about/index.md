@@ -88,6 +88,8 @@ The Analysis of Infinitely Small Things -
   research report
 </a>
 
+The Institute for Infinitely Small Things “The New American Dictionary (Security/Fear Edition)," etc. - [The New England Journal of Aesthetic Research](http://aesthetic.gregcookland.com/2006/12/institute-for-infinitely-small-things.html)
+
 ### 2005 
 
 Guidebook to Find Infinitely Small Things - 
