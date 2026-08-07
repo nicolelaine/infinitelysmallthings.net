@@ -76,6 +76,8 @@ Thinking Small: a local community subverts with the tiny -
   The Boston Phoenix
 </a>
 
+Profile of The Institute for Infinitely Small Things - [The New England Journal of Aesthetic Research](http://aesthetic.gregcookland.com/2008/04/institute-for-infinitely-small-things.html)
+
 ### 2006
 
 Art-Machines, Body-Ovens and Map-Recipes: Entries for a Psychogeographic Dictionary - 
